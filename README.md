@@ -34,7 +34,7 @@ pip install opencv-python requests Pillow
 -  Abra o arquivo Python do projeto.
 -  Substitua "YOUR_API_KEY" pela sua chave de API.
 - Substitua "YOUR_MODEL_ID" pelo ID do seu modelo (geralmente no formato "nome-do-modelo/versão").
-- Utilize o [modelo treinado](https://universe.roboflow.com/calimanisdev/detector-de-sono/dataset/3)
+- Utilize o [modelo treinado](https://universe.roboflow.com/calimanisdev/detector-de-sono/model/3)
 
 3. Execute a aplicação:
 ```
